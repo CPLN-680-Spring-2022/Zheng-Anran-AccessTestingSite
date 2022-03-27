@@ -1,0 +1,3 @@
+,Population_density,Median_Income,Median_Age,Percentage_of_White,Percentage_of_Bachelor,Percentage_of_Public_Transport,COVID_Positive_Rate,Testing_site_Density,Transit_Road_Density,Non_Transit_Road_Density,Stop_Density
+q-statistic,0.434590914,0.430129339,0.061208627,0.067949012,0.409420543,0.169620558,0.481881184,0.536128585,0.289493748,0.182336343,0.112831286
+p-value,4.23081E-10,7.23818E-10,0.07295697,0.021594355,1.41002E-10,1.55939E-05,3.54392E-10,9.08381E-10,5.96234E-06,0.005949652,0.022955652
